@@ -12,3 +12,18 @@ D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist 
 D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.exe
 D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.xml
 D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.pdb
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\bin\Debug\Wonderlist Dashboard.exe.config
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\bin\Debug\Wonderlist Dashboard.exe
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\bin\Debug\Wonderlist Dashboard.pdb
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\bin\Debug\Wonderlist Dashboard.xml
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.AssemblyReference.cache
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.SuggestedBindingRedirects.cache
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist_Dashboard.Form1.resources
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist_Dashboard.Resources.resources
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.GenerateResource.cache
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.CoreCompileInputs.cache
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.CopyComplete
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.exe
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.xml
+C:\Users\David.Sanculane\Documents\MEUS PROJECTOS\WonderList-Dashboard\obj\Debug\Wonderlist Dashboard.pdb
